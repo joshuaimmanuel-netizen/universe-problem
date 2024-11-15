@@ -1,2 +1,3 @@
-public class Void {
+public interface Void {
+    public void print();
 }
