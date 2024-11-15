@@ -1,5 +1,5 @@
 public abstract class Nothing {
-    public  void print(){}
+    public  abstract void print();
 
 }
 
